@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" /> 
+ <img width="100px" src="https://res.cloudinary.com/dlfd1c7by/image/upload/v1595266405/xdev_logo_blue.svg" align="center" alt="Github Readme Stats" /> 
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 </p>
