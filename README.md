@@ -41,7 +41,7 @@ Copy paste this into your markdown content, and that's it. Simple!
 Change the `?username=` value to your GitHub's username.
 
 ```md
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xdev200)](https://github.com/xdev200/github-readme-stats)
+[![xdev200 github stats](https://github-readme-stats.vercel.app/api?username=xdev200)](https://github.com/xdev200/github-readme-stats)
 ```
 
 _Note: Ranks are calculated based on user's stats, see [src/calculateRank.js](./src/calculateRank.js)_
@@ -53,7 +53,7 @@ To hide any specific stats, you can pass a query parameter `?hide=` with an arra
 > Options: `&hide=["stars","commits","prs","issues","contribs"]`
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xdev200&hide=["contribs","prs"])
+![xdev200 github stats](https://github-readme-stats.vercel.app/api?username=xdev200&hide=["contribs","prs"])
 ```
 
 ### Showing icons
@@ -61,7 +61,7 @@ To hide any specific stats, you can pass a query parameter `?hide=` with an arra
 To enable icons, you can pass `show_icons=true` in the query param, like so:
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xdev200&show_icons=true)
+![xdev200 github stats](https://github-readme-stats.vercel.app/api?username=xdev200&show_icons=true)
 ```
 
 ### Themes
@@ -71,7 +71,7 @@ With inbuilt themes you can customize the look of the card without doing any [ma
 Use `?theme=THEME_NAME` parameter like so :-
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xdev200&show_icons=true&theme=radical)
+![xdev200 github stats](https://github-readme-stats.vercel.app/api?username=xdev200&show_icons=true&theme=radical)
 ```
 
 #### All inbuilt themes :-
@@ -111,25 +111,25 @@ Customization Options:
 
 - Default
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xdev200)
+![xdev200 github stats](https://github-readme-stats.vercel.app/api?username=xdev200)
 
 - Hiding specific stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xdev200&hide=["contribs","issues"])
+![xdev200 github stats](https://github-readme-stats.vercel.app/api?username=xdev200&hide=["contribs","issues"])
 
 - Showing icons
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xdev200&hide=["issues"]&show_icons=true)
+![xdev200 github stats](https://github-readme-stats.vercel.app/api?username=xdev200&hide=["issues"]&show_icons=true)
 
 - Themes
 
 Choose from any of the [default themes](#themes)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xdev200&show_icons=true&theme=radical)
+![xdev200 github stats](https://github-readme-stats.vercel.app/api?username=xdev200&show_icons=true&theme=radical)
 
 - Customizing stats card
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=xdev200&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![xdev200 github stats](https://github-readme-stats.vercel.app/api/?username=xdev200&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Customizing repo card
 
